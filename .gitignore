@@ -5,3 +5,4 @@ poetry.lock
 cache/
 build/
 env/
+.worktrees
